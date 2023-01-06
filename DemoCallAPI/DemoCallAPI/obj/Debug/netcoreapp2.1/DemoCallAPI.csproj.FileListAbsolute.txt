@@ -1,0 +1,32 @@
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.dll
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.deps.json
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.runtimeconfig.json
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.runtimeconfig.dev.json
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.pdb
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.csprojAssemblyReference.cache
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.csproj.CoreCompileInputs.cache
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.RazorAssemblyInfo.cache
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.RazorAssemblyInfo.cs
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.AssemblyInfoInputs.cache
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.AssemblyInfo.cs
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.RazorTargetAssemblyInfo.cache
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.dll
+C:\semIII\C#\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.pdb
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.deps.json
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.runtimeconfig.json
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.runtimeconfig.dev.json
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.dll
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\bin\Debug\netcoreapp2.1\DemoCallAPI.pdb
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.csproj.AssemblyReference.cache
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.AssemblyInfoInputs.cache
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.AssemblyInfo.cs
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.RazorAssemblyInfo.cache
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.RazorAssemblyInfo.cs
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.dll
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.pdb
+C:\Users\Pham Quoc Thanh\Downloads\API\DemoCallAPI\DemoCallAPI\obj\Debug\netcoreapp2.1\DemoCallAPI.genruntimeconfig.cache
